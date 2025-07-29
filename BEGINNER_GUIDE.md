@@ -541,10 +541,10 @@ void prime_number_exercise(void) {
 ## ✅ บทที่ 10: Checklist และการทดสอบ
 
 ### 10.1 Pre-Lab Checklist
-- [ ] ติดตั้ง Docker และ docker-compose เรียบร้อย
-- [ ] ดาวน์โหลด ESP-IDF Docker image แล้ว
-- [ ] สร้างโปรเจคและไฟล์ต่างๆ ครบถ้วน
-- [ ] ทดสอบ build โปรเจคสำเร็จ
+- ✅ ติดตั้ง Docker และ docker-compose เรียบร้อย
+- ✅ ดาวน์โหลด ESP-IDF Docker image แล้ว
+- ✅ สร้างโปรเจคและไฟล์ต่างๆ ครบถ้วน
+- ✅ ทดสอบ build โปรเจคสำเร็จ
 
 ### 10.2 During Lab Checklist
 - [ ] เข้าใจโครงสร้างโปรแกรม C บน ESP32
