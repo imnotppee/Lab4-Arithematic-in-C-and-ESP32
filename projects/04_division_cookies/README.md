@@ -96,3 +96,5 @@ for (int people = 1; people <= 10; people++) {
 แต่ละคนได้: 12 ÷ 4 = 3 ชิ้น
 เศษที่เหลือ: 0 ชิ้น
 ```
+![alt text](image.png)
+![alt text](image-1.png)
