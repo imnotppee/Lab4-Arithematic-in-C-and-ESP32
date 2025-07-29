@@ -110,3 +110,5 @@ ESP_LOGI(TAG, "   เหลือ %d เม็ด", remaining_candies);
 
 การบวกซ้ำๆ: 6 + 6 + 6 + 6 + 6 = 30
 ```
+
+![alt text](image.png)
